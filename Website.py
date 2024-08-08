@@ -51,7 +51,8 @@ Whether you're shopping, selling, or just curious, our user-friendly interface a
 
 Experience the power of data-driven price predictions with the Amazon Category Price Predictor, and make informed decisions with confidence!</p>
     <h2>About</h2>
-    <a href=''>Github Repository</a>
+    <a href='https://github.com/NagavarapuSaarvari/Amazon-Price-Prediction' target='_blank'>Github Repository</a>
+    <a href='https://www.linkedin.com/in/saarvari-nagavarapu-419753307/' target='_blank'>Linkedin</a>
     </body>
     </html>
 '''
