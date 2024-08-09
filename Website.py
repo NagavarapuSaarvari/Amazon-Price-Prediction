@@ -30,7 +30,7 @@ header = '''
                 font-size:20px;
             }
             .logo{
-                font-size:8px;
+                font-size:15px;
             }
             .stApp{
                 background-color:white;
