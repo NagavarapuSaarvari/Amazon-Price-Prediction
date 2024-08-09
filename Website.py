@@ -55,7 +55,7 @@ Whether you're shopping, selling, or just curious, our user-friendly interface a
 
 Experience the power of data-driven price predictions with the Amazon Category Price Predictor, and make informed decisions with confidence!</p>
     <h2>About</h2>
-    <p>Hello, my name Nagavarapu Saarvari. I am currently pursuing my engineering in <br>
+    <p>Hello, my name is Nagavarapu Saarvari. I am currently pursuing my engineering in <br>
     AI & ML at NMAMIT Nitte.I am doing this project as a part of my "Advanced Data Science with Python" internship at DLithe.</p>
     <p class="logo">Github Repository
     <a href='https://github.com/NagavarapuSaarvari/Amazon-Price-Prediction' target='_blank'>
