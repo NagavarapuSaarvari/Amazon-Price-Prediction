@@ -9,7 +9,7 @@ header = '''
     <!DOCTYPE html>
     <html>
     <head>
-            <title>Amazon Price Predictor</title>
+            <title>Amazon Product Category Price Predictor</title>
         <style>
             h1{
                 text-align:center;
