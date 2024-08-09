@@ -14,7 +14,7 @@ header = '''
             h1{
                 text-align:center;
                 padding:10px;
-                background-color:yellow;
+                background-color:lightgreen;
                 border-radius:20px;
                 font:bold;
                 color:black;
