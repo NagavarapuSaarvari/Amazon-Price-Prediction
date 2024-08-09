@@ -43,7 +43,7 @@ header = '''
         </style>
     </head>
     <body>
-    <h1>Amazon Category Price Predictor</h1>'''
+    <h1>Amazon Product Category Price Predictor</h1>'''
 st.markdown(header,unsafe_allow_html=True)
 body='''
     <h2>Introduction</h2>
