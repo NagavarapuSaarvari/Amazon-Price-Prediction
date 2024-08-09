@@ -14,7 +14,7 @@ On opening the wesite, we will have 3 tabs.
 1) Python
 2) HTML and CSS for the website
 
-# Python Packages Used
+## Python Packages Used
 1) Pandas
 2) Numpy
 3) BeautifulSoup 4
@@ -24,21 +24,9 @@ On opening the wesite, we will have 3 tabs.
 7) Streamlit
 
 ## Setup
-Firstly, install jupyter notebook by using "pip install jupyter notebook" command in the command prompt.
+Firstly, install the requirements using the command **`pip install -r requirements.txt`**
 
-Then install the pandas,numpy, beautifulsoup4,scikit-learn,matplotlib, pickle and streamlit packages in the jupyter notebook using the "pip install [package_name]" command.
+Then install the beautifulsoup4 and pickle packages in the jupyter notebook using the **`pip install [package_name]`** command.
 
-## Data Mining
-Extract the required data by scraping the amazon website using necessary beautiful soup objects and store the ectracted data in a csv file
-
-## Data Cleaning
-Remove the inconsistent, missing and duplicated data by using the necessary preprocessing techniques and save the cleaned data
-
-## Creating a Power BI Dashboard
-Create a dashboard in the Microsoft Power BI app to understand the relation among the data elements clearly
-
-## Model Building
-Build a machine learning model using the necessary packages and store the model in pickle file
-
-## Model Deployment
-Create a website using html,css and streamlit for deploying the model. Take the necessary inputs from the user and plot the graph by loading the model saved in the pickle file. Finally, host the website on the streamlit app by using the "requirements.txt" file which mentions the modules required by the website
+## Deployment
+Run the website on your loacal host using the command **`streamlit run Website.py`** in the command prompt
