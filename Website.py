@@ -53,9 +53,9 @@ Experience the power of data-driven price predictions with the Amazon Category P
     <h2>About</h2>
     <p>Hello, my name Nagavarapu Saarvari. I am currently pursuing my engineering in <br>
     AI & ML at NMAMIT Nitte.I am doing this project as a part of my "Advanced Data Science with Python" internship at DLithe</p>
-    <img src='https://i.pinimg.com/736x/b5/1b/78/b51b78ecc9e5711274931774e433b5e6.jpg' width="20" height="20">
+    <img src='https://i.pinimg.com/736x/b5/1b/78/b51b78ecc9e5711274931774e433b5e6.jpg' width="70" height="70">
     <a href='https://github.com/NagavarapuSaarvari/Amazon-Price-Prediction' target='_blank'>Github Repository</a><br>
-    <img src='https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMS0xMC5wbmc.png' width="20" height="20">
+    <img src='https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMS0xMC5wbmc.png' width="70" height="70">
     <a href='https://www.linkedin.com/in/saarvari-nagavarapu-419753307/' target='_blank'>Linkedin Profile</a>
     </body>
     </html>
