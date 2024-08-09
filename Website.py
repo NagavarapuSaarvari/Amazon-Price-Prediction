@@ -29,7 +29,7 @@ header = '''
                 text-align:justify;
                 font-size:20px;
             }
-            .p class="logo"{
+            .logo{
                 font-size:8px;
             }
             .stApp{
